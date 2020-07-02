@@ -1,14 +1,14 @@
 
 
-linkLink_announcement_header█LinkLink - the future of the Internet?
-linkLink_announcement_content█{1}, the owner of the space company {0}, is expanding his business. It would seem that sending a man to Mars is the CEO's top ambition.&%&%This time {1} has set himself the goal of providing fast and affordable internet to the people of our planet. He wants to achieve this with hundreds of small telecommunication satellites sent into the Earth's orbit. The name of the technology was also announced - "LinkLink".&%&%We will keep you informed about the progress of work on this new technology.
+linkLink_announcement_header█LinkLink - die Zukunft des Internets?
+linkLink_announcement_content█{1}, der Eigentümer von dem Raumfahrtunternehmen {0}, baut sein Geschäft aus. Es scheint, dass die Entsendung eines Mannes zum Mars das oberste Ziel des CEO's ist.&%&%Diesmal hat {1} sich zum Ziel gesetzt, den Menschen auf unserem Planeten ein schnelles und erschwingliches Internet zur Verfügung zu stellen. Dies will {1} mit Hunderten von kleinen Telekommunikationssatelliten erreichen, die in die Erdumlaufbahn geschickt werden. Auch der Name der Technologie wurde bekanntgegeben - "LinkLink".&%&%Wir werden Sie über den Fortschritt der Arbeiten an dieser neuen Technologie auf dem Laufenden halten.
 
 
-linkLink_tintin_header█First LinkLink satellites in orbit!
-linkLink_tintin_content█Today's rocket launch will make history. There were {5} small LinkLink satellites on board to give us fast and affordable internet access from {0}. &%&%We don't know when exactly the service will be launched for a wide range of users.  
+linkLink_tintin_header█Erste LinkLink-Satelliten im Orbit!
+linkLink_tintin_content█Der heutige Raketenstart wird Geschichte schreiben. Es waren {5} kleine LinkLink-Satelliten von {0} an Bord, die uns einen schnellen und erschwinglichen Internetzugang ermöglichen sollen. &%&%Wir wissen nicht, wann genau der Dienst für ein breites Spektrum von Benutzern gestartet wird.  
 
 
-linkLink_terminals_header█The construction of mysterious {0} antennas is completed.
+linkLink_terminals_header█Der Bau der geheimnisvollen Antennen von {0} ist abgeschlossen.
 linkLink_terminals_content█There have been mysterious circular constructions placed near the largest cities in the world. As we managed to determine, these are the antennas responsible for communication with the LinkLink satellite constellation. &%&%The service will start soon?
 
 
