@@ -107,7 +107,8 @@ buildings.txt
 
 news.txt
 
-all
+89	news_bankrupt_content_p32█We hope that {1} put some money into the sock.
+
 
 
 
