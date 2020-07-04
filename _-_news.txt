@@ -1,19 +1,19 @@
 
 
-news_technology_content_p11█All {0} fans have been waiting for this! Today's CEO's press conference leaves no room for illusions - we are witnessing another major breakthrough in the research that will lead humanity to Mars.
-news_technology_content_p12█We live in interesting times! The race to Mars started for good and we are curious what will come out of it. Will {1} keep his promises?
-news_technology_content_p13█Today we are looking forward to the {0} company. Will their human missions ever set foot on Mars? We will see in a few years.
-news_technology_content_p14█You've been waiting for this, haven't you? We have the latest news from the company headquarters of {0}. Everything seems to indicate that their technology is developing very fast.
+news_technology_content_p11█Darauf haben alle Fans von {0} gewartet! Die heutige Pressekonferenz des CEO lässt keinen Raum für Illusionen - wir sind Zeugen eines weiteren großen Durchbruchs in der Forschung, die die Menschheit zum Mars führen wird.
+news_technology_content_p12█Wir leben in interessanten Zeiten! Der Wettlauf zum Mars hat endgültig begonnen, und wir sind gespannt, was dabei herauskommen wird. Werden die Versprechen von {1} gehalten?
+news_technology_content_p13█Heute freuen wir uns auf das Unternehmen {0}. Werden ihre bemannten Missionen jemals einen Fuß auf den Mars setzen? Wir werden es in einigen Jahren sehen.
+news_technology_content_p14█Darauf haben Sie gewartet, nicht wahr? Wir haben die neuesten Nachrichten aus der Firmenzentrale von {0}. Alles scheint darauf hinzudeuten, daß sich ihre Technologie sehr schnell entwickelt.
 
-news_technology_content_p21█{1}: "The rockets we are currently developing are far from competitive. Let's hope it's not just a simple boast to make more profits on the stock market. Does {0} really have better technologies? Will we ever set foot on Mars? 
-news_technology_content_p22█"We hope to look to the future. Improvements of our rockets will not only allow us to carry larger charges into orbit. This is the beginning of the path that mankind will follow over the next decades. - {1}, {0}. 
-news_technology_content_p23█The new generation engine presented by %company name% has just passed its first successful tests last year. {1} announced that within 10 years the engine will be on the board of one of the rockets to test it in the vacuum of space. Do the competitors have a reason to fear?
-news_technology_content_p24█"I'm sure it'll work!", says {1} at yesterday's conference. He wants to recover the rockets that fell to the Earth after the launch of the payload into orbit. A rocket falling at a very high speed would open the parachute at the right time and then fall into the ocean. This is another step towards cheaper flights into space and to Mars! 
+news_technology_content_p21█{1}: "Die Raketen, die wir derzeit entwickeln, sind weit davon entfernt, wettbewerbsfähig zu sein. Hoffen wir, dass es sich nicht nur um eine einfache Prahlerei handelt, mehr Gewinne an der Börse zu erzielen. Hat {0} wirklich bessere Technologien? Werden wir jemals einen Fuß auf den Mars setzen? 
+news_technology_content_p22█"Wir hoffen, in die Zukunft blicken zu können. Verbesserungen an unseren Raketen werden es uns nicht nur ermöglichen, größere Ladungen in die Umlaufbahn zu bringen. Dies ist der Anfang des Weges, den die Menschheit in den nächsten Jahrzehnten beschreiten wird. - {1}, {0}. 
+news_technology_content_p23█Der von %company name% vorgestellte Motor der neuen Generation hat gerade seine ersten erfolgreichen Tests im vergangenen Jahr bestanden. {1} kündigte an, dass das Triebwerk innerhalb von 10 Jahren an Bord einer der Raketen sein wird, um es im Vakuum des Weltraums zu testen. Haben die Konkurrenten einen Grund zur Angst?
+news_technology_content_p24█"Ich bin sicher, es wird funktionieren!", sagte {1} auf der gestrigen Konferenz. Er will die Raketen bergen, die nach dem Start der Nutzlast in die Umlaufbahn auf die Erde gefallen sind. Eine Rakete, die mit sehr hoher Geschwindigkeit fällt, würde zum richtigen Zeitpunkt den Fallschirm öffnen und dann in den Ozean fallen. Dies ist ein weiterer Schritt hin zu billigeren Flügen ins All und zum Mars!
 
-news_technology_content_p31█We are looking forward to hearing more good news about {0}!
-news_technology_content_p32█{1} is counting money, we are counting our page views. Maybe it's time to introduce ads?
-news_technology_content_p33█Dreams of a human landing on Mars are coming true in front of our eyes.
-news_technology_content_p34█What's the first one? Moon or Mars? {1} probably already knows it, but they don't want to say it.
+news_technology_content_p31█Wir sind gespannt auf weitere gute Nachrichten über {0}!
+news_technology_content_p32█{1} zählt Geld, wir zählen unsere Seitenaufrufe. Vielleicht ist es an der Zeit, Werbeanzeigen einzuführen?
+news_technology_content_p33█Träume von der Landung eines Menschen auf dem Mars gehen vor unseren Augen in Erfüllung.
+news_technology_content_p34█Was ist das erste? Mond oder Mars? {1} weiß es wahrscheinlich schon, aber sie wollen es nicht sagen.
 
 
 
@@ -63,7 +63,7 @@ news_fail_header2█A rocket turned into a huge fireball. {0} examines the cause
 news_fail_header3█{0} is in trouble. The explosion of their rocket woke up the residents of the nearby city.
 news_fail_header4█That rocket is no longer in existence. The rocket belonging to the {0} burned in the atmosphere.
 news_fail_header5█{1}: "We thought it would work this time. A rocket on fire is not what we wanted to see today. 
-news_fail_header6█"We'll be out loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
+news_fail_header6█"We'll be loud!" The words of the CEO of {0} have just come true. Their rockets explode like crazy.
 news_fail_header7█{1} terrorizes the sky! Successive rocket explosions threaten the financial flow of the {0}.
 news_fail_header8█{0}: The powerful explosion of our rocket threatens the company's position. {1} at the exit?
 
