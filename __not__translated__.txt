@@ -2,6 +2,9 @@
 
 --- NOT TRANSLATED ---
 
+STAND 4. Juli 2020 --- Date 4th July 2020
+
+
 vehicles.txt
 
 17	vehicles_view█View
